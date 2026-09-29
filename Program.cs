@@ -72,4 +72,5 @@ System.Console.WriteLine($"Total estimate ${TotalCost}");
 
 
 System.Console.WriteLine($"Total Cost For Your Carpet is ${TotalOfCarpet} And Tax ${TotalTax} Soo Total Price is ${TotalCost}");
+System.Console.WriteLine($"this estimate is Valid for {valid} days");
 
